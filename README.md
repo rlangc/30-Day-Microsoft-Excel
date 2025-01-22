@@ -50,3 +50,8 @@ Week 4: Integration and Application
     Day 29-30: Final Review and Completion of Project: Finish the project, review any areas of difficulty, and practice comprehensive skills.
 
 This plan will help you steadily build your skills, giving you both the understanding and practical experience needed to become proficient in Excel. Remember to take advantage of online resources, tutorials, and forums to supplement your learning and solve any specific problems you encounter.
+
+<p align="center">
+  <a href="https://github.com/rlangc/30-Day-Learning.git"><b>Return to 30 Day Learning Strategy</b></a>
+<p align="center">
+  <a href="https://github.com/rlangc/Test_RCL.git"><b>Return to Home</b></a>
